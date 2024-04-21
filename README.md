@@ -5,8 +5,10 @@
 
 **Description:** Cross-site scripting (XSS) vulnerability in the HOW TO Page section of WonderCMS 3.4.3 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into all fields.
 
+**CVE:** CVE-2024-32339.
+
 ## PoC
-### HOW TO Page
+### HOW TO Page (CVE-2024-32339)
 1. Enter to HOW TO page and in any parameter set the payload:
 
 ![image](https://github.com/adiapera/xss_how_to_page_wondercms_3.4.3/assets/165512291/2e5d39bf-eb47-4996-976e-2bd3b9befc21)
