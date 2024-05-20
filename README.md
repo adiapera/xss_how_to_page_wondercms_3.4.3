@@ -1,7 +1,7 @@
 # XSS in WonderCMS 3.4.3 (HOW TO PAGE)
 **Software link:** WonderCMS 3.4.3 [https://www.wondercms.com/download]
 
-**@author:** Antonio Díaz.
+**@author:** Antonio Díaz Pérez.
 
 **Description:** Cross-site scripting (XSS) vulnerability in the HOW TO Page section of WonderCMS 3.4.3 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into all fields.
 
